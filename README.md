@@ -83,8 +83,8 @@ track progress on key performance indicators (KPIs), fostering a culture of cont
 [Credentials](https://learn.microsoft.com/en-us/users/shihamfarook-8053/credentials/2de3c38e68acfe8f?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 ## Extra Activities
-1. Conducted a Workshop on Advanced Data Analytics
+1. Conducted a Workshop on Advanced Data Analytics \
 Delivered an interactive workshop for university students, focusing on advanced data analytics concepts and their realworld applications in AI-driven solutions.
-2. Participant in Generative AI Hackathon by Octave
+2. Participant in Generative AI Hackathon by Octave \
 Actively participated in a Generative AI Hackathon hosted by Octave, collaborating with industry professionals to
 develop innovative solutions using cutting-edge AI technologies.
