@@ -75,11 +75,11 @@ improvements, laying the groundwork for data-driven operational strategies. Desi
 track progress on key performance indicators (KPIs), fostering a culture of continuous improvement.
 
 ## Certificates
-**Microsoft Certified: Power BI Data Analyst Associate PL300**
+**Microsoft Certified: Power BI Data Analyst Associate PL300** \
 [Credentials](https://learn.microsoft.com/en-us/users/shihamfarook-8053/credentials/97b8bb9b88c8733a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-**Microsoft Certified: Fabric Analytics Engineer Associate D600**
+**Microsoft Certified: Fabric Analytics Engineer Associate D600** \
 [Credentials](https://learn.microsoft.com/en-us/users/shihamfarook-8053/credentials/c524f294ec1fb236?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-**Microsoft Certified: Azure AI Fundamentals AI900**
+**Microsoft Certified: Azure AI Fundamentals AI900** \
 [Credentials](https://learn.microsoft.com/en-us/users/shihamfarook-8053/credentials/2de3c38e68acfe8f?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 ## Extra Activities
