@@ -3,9 +3,12 @@
 #### Technical Skills: Python, SQL, Spark, R, Azure, AWS, Data bricks, Power BI, Gen AI frameworks, Lang chain, Vector data bases, Statistics, Azure AI studio, Azure ML studio, AWS Sagemaker, ML Flow
 
 ## Education
-- MSc in Data Science and Artificial Intelligence | Department of Computer Science & Engineering, University of Moratuwa (_2025)								       		
-- B.Sc Eng ( Hons ) specialized in Textile Process Engineering	| University of Moratuwa (_2023_)	 			        		
-- Chartered Management Accountant ACMA | CGMA | Chartered Institute of Management & Accountancy – UK (_2019_)
+- MSc in Data Science and Artificial Intelligence
+_Department of Computer Science & Engineering, University of Moratuwa_ (_2025)_								       		
+- B.Sc Eng ( Hons ) specialized in Textile Process Engineering
+_University of Moratuwa_ (_2023_)	 			        		
+- Chartered Management Accountant ACMA, CGMA
+_Chartered Institute of Management & Accountancy – UK_ (_2019_)
 
 ## Work Experience
 **Assistant Manager - Business Intelligence Engineering @ OCTAVE | John Keells Holdings PLC (_Nov 2022 - Present_)**
@@ -70,13 +73,11 @@ Leveraged data analysis tools to monitor production metrics, identify inefficien
 improvements, laying the groundwork for data-driven operational strategies. Designed performance dashboards to
 track progress on key performance indicators (KPIs), fostering a culture of continuous improvement.
 
-## CERTIFICATES
+## Certificates
 ### Microsoft Certified: Power BI Data Analyst Associate PL300
 [Credentials](https://learn.microsoft.com/en-us/users/shihamfarook-8053/credentials/97b8bb9b88c8733a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-
 ### Microsoft Certified: Fabric Analytics Engineer Associate D600
 [Credentials](https://learn.microsoft.com/en-us/users/shihamfarook-8053/credentials/c524f294ec1fb236?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-
 ### Microsoft Certified: Azure AI Fundamentals AI900
 [Credentials](https://learn.microsoft.com/en-us/users/shihamfarook-8053/credentials/2de3c38e68acfe8f?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
