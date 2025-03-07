@@ -3,16 +3,16 @@
 #### Technical Skills: Python, SQL, Spark, R, Azure, AWS, Data bricks, Power BI, Gen AI frameworks, Lang chain, Vector data bases, Statistics, Azure AI studio, Azure ML studio, AWS Sagemaker, ML Flow
 
 ## Education
-- MSc in Data Science and Artificial Intelligence
+- MSc in Data Science and Artificial Intelligence \
 _Department of Computer Science & Engineering, University of Moratuwa_ (_2025)_								       		
-- B.Sc Eng ( Hons ) specialized in Textile Process Engineering
+- B.Sc Eng ( Hons ) specialized in Textile Process Engineering \
 _University of Moratuwa_ (_2023_)	 			        		
-- Chartered Management Accountant ACMA, CGMA
+- Chartered Management Accountant ACMA, CGMA \
 _Chartered Institute of Management & Accountancy – UK_ (_2019_)
 
 ## Work Experience
 **Assistant Manager - Business Intelligence Engineering @ OCTAVE | John Keells Holdings PLC (_Nov 2022 - Present_)**
-- Requirement Gathering & Solution Mapping
+- __Requirement Gathering & Solution Mapping__
 Collaborate with cross-functional business units, including John Keells and CCS workstreams, to gather requirements and
 design customized data science and business intelligence solutions. Aligned technical capabilities with business
 objectives to streamline operational efficiency and enable data-driven decision-making.
